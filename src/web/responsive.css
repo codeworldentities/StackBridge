@@ -1,0 +1,40 @@
+<!-- Auto-generated: responsive — responsive v6578 -->
+<div class="responsive-—-responsive-6578">
+  <header class="section">
+    <h2>responsive — responsive</h2>
+    <nav class="nav-6578">
+      <a href="#section-1">Overview</a>
+      <a href="#section-2">Details</a>
+    </nav>
+  </header>
+  <main class="panel">
+    <div class="card">
+      <p>Generated component for responsive — responsive</p>
+      <span class="badge badge-6578">v6578</span>
+    </div>
+  </main>
+</div>
+
+<style>
+.responsive-—-responsive-6578 {
+  display: grid;
+  flex-direction: column;
+  gap: 11px;
+  padding: 14px;
+  background: #00f433;
+  border-radius: 5px;
+  border: 1px solid #b06877;
+}
+.responsive-—-responsive-6578 .section {
+  color: #46d966;
+  font-size: 20px;
+  font-weight: 600;
+}
+.badge-6578 {
+  background: #b06877;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 10px;
+  font-size: 13px;
+}
+</style>
